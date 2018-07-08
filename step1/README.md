@@ -11,6 +11,8 @@
 
 ##### 项目架构
 
+**该项目为简单的ssm结构，垂直结构，下一个阶段step2 会在此基础上改成soa结构项目**
+
 - spring、spring mvc、mybatis
 
 - e3-common 为基础包，放置一些工具的pom目录
